@@ -1,0 +1,4 @@
+Weather assignment - 2025-02-02 10:55:49,532 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.openweathermap.org:443
+Weather assignment - 2025-02-02 10:55:49,635 - urllib3.connectionpool - DEBUG - https://api.openweathermap.org:443 "GET /data/2.5/forecast/daily?lat=17.04&lon=78.47&cnt=7&appid=ca3f6d6ca3973a518834983d0b318f73 HTTP/1.1" 200 2860
+Weather assignment - 2025-02-02 10:55:49,635 - root - INFO - response code from OpenWeatherMap 200
+Weather assignment - 2025-02-02 10:55:49,659 - root - INFO - Chart weather_forecast.xlsx created for Sun, 02 Feb 2025 05:25:48 GMT
