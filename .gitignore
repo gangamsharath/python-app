@@ -1,9 +1,0 @@
-# Ignore virtual environment
-myenv/
-
-# Ignore AWS CLI example files
-awscli/examples/
-
-# Ignore other sensitive files (modify as needed)
-.env
-config.json
